@@ -10,7 +10,7 @@ My background bridges **software engineering**, **philosophy**, and **event orga
 ## 💻 Tech Stack
 
 **Languages & Frameworks**
-`Java` · `Spring Boot` · `JavaScript` · `Node.js` · `React` · `React Native` · `HTML` · `CSS` · `SQL`  
+`Java` · `Spring Boot` · `JavaScript` · `TypeScript` ·`Node.js` · `React` · `React Native` · `HTML` · `CSS` · `SQL`  
 `MongoDB` · `PostgreSQL` · `MySQL`
 
 **Tools & Platforms**
